@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AgostinhoPT
+- 👀 I’m interested in Gaming, and programming.
+- 🌱 I’m currently learning AI, WebGL and Python.
+- 📫 How to reach me danielagostinho2004@gmail.com
+- 🐟 Fun fact: I have a tropical fish tank.
